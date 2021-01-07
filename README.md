@@ -1,2 +1,2 @@
-# Wrapper Online Gold
-an goanimate website to thoose who want the safe verison of wrapper online gold.
+# Wrapper Online Legacy
+an goanimate website to thoose who want to unpatch wrapper online
